@@ -1,0 +1,48 @@
+default:
+  cm1: "music 865678082"
+  cm2: "music 1939020794"
+  cm3: "music 1940359218"
+  cm4: "music 1444426834"
+  cm5: "music 2091327311"
+  cm6: "music 2120480311"
+  cm7: "music 521161203"
+  cm8: "music 2097858591"
+  cm9: "music 1803443499"
+  cm10: "music 27918900"
+  cm11: "music 521935820"
+  cm12: "music 1860661903"
+  cm13: "music 1890756154"
+  cm14: "music 29412405"
+  cm15: "music 2053697901"
+pure:
+  cm1: "music 1939020794"
+  cm2: "music 1940359218"
+  cm3: "music 2120480311"
+  cm4: "music 521161203"
+  cm5: "music 521935820"
+  cm6: "music 1860661903"
+  cm7: "music 1890756154"
+  cm8: "music 1914574720"
+  cm9: "music 2121619600"
+  cm10: "music 1995166023"
+  cm11: "music 17867241"
+  cm12: "music 25769516"
+  cm13: 'music 1392600538'
+  cm14: 'tellraw @a "§6[占位符]"'
+  cm15: 'tellraw @a "§6[占位符]"'
+bgm:
+  cm1: "music 26286214"
+  cm2: "music 1869031258"
+  cm3: "music 17867241"
+  cm4: "music 1966101009"
+  cm5: "music 28828078"
+  cm6: "music 1995166023"
+  cm7: "music 38018486"
+  cm8: "music 521935820"
+  cm9: "music 2053697901"
+  cm10: "music 2002439345"
+  cm11: "music 29412405"
+  cm12: "music 1967977565"
+  cm13: 'tellraw @a "§6[占位符]"'
+  cm14: 'tellraw @a "§6[占位符]"'
+  cm15: 'tellraw @a "§6[占位符]"'

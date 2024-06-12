@@ -1,0 +1,20 @@
+name: playmusics
+version: '2.1.0-beta'
+main: org.com.automusic.playmusics.Playmusics
+api-version: '1.19'
+commands:
+  play_default:
+    description: Execute default commands
+    usage: /play_default
+  reloadconfig:
+    description: Reloads the plugin configuration
+    usage: /reloadconfig
+  mekegg:
+    description: Mek colored egg
+    usage: /mekegg
+  play_puremusic:
+    description: Execute puremusic commands
+    usage: /play_puremusic
+  play_bgm:
+    description: Execute bgm commands
+    usage: /play_bgm
